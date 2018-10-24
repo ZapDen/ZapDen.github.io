@@ -36,7 +36,8 @@ dt{
 }
 
 dt > em{
-	font-size: 18px;
+	font-family: Arial;
+	font-size: 16px;
 }
 
 caption{
