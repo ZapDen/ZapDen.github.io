@@ -35,6 +35,10 @@ dt{
 	font-weight: bold;
 }
 
+dt > em{
+	font-size: 18px;
+}
+
 caption{
 	font-size: 25px;
 	color: blue;
