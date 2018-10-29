@@ -26,11 +26,13 @@ table{
 td{
 	text-align: left;
 	width: 200px;
-}
-
-td{
 	vertical-align: top;
 }
+
+td > div {
+	text-align: right;
+}
+
 
 dt{
 	font-weight: bold;
@@ -55,3 +57,4 @@ ol > li{
 	font-style: normal;
 	font-weight: bold;
 }
+
