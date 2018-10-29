@@ -29,10 +29,6 @@ td{
 	vertical-align: top;
 }
 
-td > div {
-	text-align: right;
-}
-
 
 dt{
 	font-weight: bold;
