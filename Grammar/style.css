@@ -1,9 +1,14 @@
-body{
+.page {
+	width: 700px;
+	margin: 50px auto;
+}
+
+/*body{
 	padding: 50px 120px;
 	margin: 0 220px;
 	width: 700px;
 }
-
+*/
 h2{
 	text-align: center;
 	color: blue;
