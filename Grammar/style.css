@@ -63,3 +63,10 @@ ol > li{
 table:last-of-type {		/* we could use :last-of-type to add some space after the last table*/
 	margin-bottom: 50px; 
 }
+
+hr:last-of-type {
+	border: 15px solid #DDE0E3; 
+	width: 100%;
+	margin-top: 30px;
+	border-radius: 5px;
+}
