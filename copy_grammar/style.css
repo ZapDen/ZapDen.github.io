@@ -1,3 +1,8 @@
+.container {
+	overflow: hidden;
+	background-color: #EAEDF0;
+}
+
 .page {
 	width: 900px;
 	margin: 50px auto;
@@ -6,6 +11,7 @@
 .sidebar {
 	float: right;
 	width: 200px;
+	font-size: 1.5em;
 	background-color: gray;
 }
 
@@ -14,6 +20,7 @@
 	float: left;
 	width: 700px;
 	margin: 0 auto;
+	/* background-color: yellow; */
 }
 
 /*body{
@@ -75,11 +82,4 @@ ol > li{
 
 table:last-of-type {		/* we could use :last-of-type to add some space after the last table*/
 	margin-bottom: 50px; 
-}
-
-hr:last-of-type {
-	border: 15px solid #DDE0E3; 
-	width: 100%;
-	margin-top: 30px;
-	border-radius: 5px;
 }
